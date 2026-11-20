@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Abonnements FreshRSS</title>
+  </head>
+  <body>
+    <outline text="Informatique" title="Informatique">
+      <outline type="rss" text="Korben" title="Korben" xmlUrl="https://korben.info/feed" htmlUrl="https://korben.info"/>
+      <outline type="rss" text="Numerama" title="Numerama" xmlUrl="https://www.numerama.com/feed/" htmlUrl="https://www.numerama.com"/>
+      <outline type="rss" text="Next" title="Next" xmlUrl="https://next.ink/feed/" htmlUrl="https://next.ink"/>
+      <outline type="rss" text="Clubic" title="Clubic" xmlUrl="https://www.clubic.com/feed/news.rss" htmlUrl="https://www.clubic.com"/>
+      <outline type="rss" text="Les Numériques" title="Les Numériques" xmlUrl="https://www.lesnumeriques.com/rss.xml" htmlUrl="https://www.lesnumeriques.com"/>
+      <outline type="rss" text="Frandroid" title="Frandroid" xmlUrl="https://www.frandroid.com/feed" htmlUrl="https://www.frandroid.com"/>
+      <outline type="rss" text="01net" title="01net" xmlUrl="https://www.01net.com/feed/" htmlUrl="https://www.01net.com"/>
+      <outline type="rss" text="Journal du Geek" title="Journal du Geek" xmlUrl="https://www.journaldugeek.com/feed/" htmlUrl="https://www.journaldugeek.com"/>
+      <outline type="rss" text="Siècle Digital" title="Siècle Digital" xmlUrl="https://siecledigital.fr/feed/" htmlUrl="https://siecledigital.fr"/>
+      <outline type="rss" text="Presse-citron" title="Presse-citron" xmlUrl="https://www.presse-citron.net/feed/" htmlUrl="https://www.presse-citron.net"/>
+      <outline type="rss" text="Developpez.com" title="Developpez.com" xmlUrl="https://www.developpez.com/index/rss" htmlUrl="https://www.developpez.com"/>
+      <outline type="rss" text="LinuxFr.org" title="LinuxFr.org" xmlUrl="https://linuxfr.org/news.atom" htmlUrl="https://linuxfr.org"/>
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com"/>
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+      <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com"/>
+      <outline type="rss" text="Phoronix" title="Phoronix" xmlUrl="https://www.phoronix.com/rss.php" htmlUrl="https://www.phoronix.com"/>
+      <outline type="rss" text="It's FOSS" title="It's FOSS" xmlUrl="https://itsfoss.com/feed/" htmlUrl="https://itsfoss.com"/>
+    </outline>
+
+    <outline text="Sécurité informatique" title="Sécurité informatique">
+      <outline type="rss" text="CERT-FR - Alertes" title="CERT-FR - Alertes" xmlUrl="https://www.cert.ssi.gouv.fr/alerte/feed/" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+      <outline type="rss" text="CERT-FR - Avis" title="CERT-FR - Avis" xmlUrl="https://www.cert.ssi.gouv.fr/avis/feed/" htmlUrl="https://www.cert.ssi.gouv.fr"/>
+      <outline type="rss" text="ZATAZ" title="ZATAZ" xmlUrl="https://www.zataz.com/feed/" htmlUrl="https://www.zataz.com"/>
+      <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+      <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com"/>
+      <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com"/>
+      <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com"/>
+      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"/>
+      <outline type="rss" text="Security Affairs" title="Security Affairs" xmlUrl="https://securityaffairs.com/feed" htmlUrl="https://securityaffairs.com"/>
+      <outline type="rss" text="SANS Internet Storm Center" title="SANS Internet Storm Center" xmlUrl="https://isc.sans.edu/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+      <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com"/>
+      <outline type="rss" text="CyberScoop" title="CyberScoop" xmlUrl="https://cyberscoop.com/feed/" htmlUrl="https://cyberscoop.com"/>
+      <outline type="rss" text="Malwarebytes Labs" title="Malwarebytes Labs" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml" htmlUrl="https://www.malwarebytes.com/blog"/>
+    </outline>
+
+    <outline text="Jeux vidéo" title="Jeux vidéo">
+      <outline type="rss" text="Jeuxvideo.com" title="Jeuxvideo.com" xmlUrl="https://www.jeuxvideo.com/rss/rss.xml" htmlUrl="https://www.jeuxvideo.com"/>
+      <outline type="rss" text="Gamekult" title="Gamekult" xmlUrl="https://www.gamekult.com/feed.xml" htmlUrl="https://www.gamekult.com"/>
+      <outline type="rss" text="Gameblog" title="Gameblog" xmlUrl="https://www.gameblog.fr/rss.php" htmlUrl="https://www.gameblog.fr"/>
+      <outline type="rss" text="JeuxActu" title="JeuxActu" xmlUrl="https://www.jeuxactu.com/rss/" htmlUrl="https://www.jeuxactu.com"/>
+      <outline type="rss" text="IGN France" title="IGN France" xmlUrl="https://fr.ign.com/feed.xml" htmlUrl="https://fr.ign.com"/>
+      <outline type="rss" text="Canard PC" title="Canard PC" xmlUrl="https://www.canardpc.com/feed" htmlUrl="https://www.canardpc.com"/>
+      <outline type="rss" text="Eurogamer" title="Eurogamer" xmlUrl="https://www.eurogamer.net/feed" htmlUrl="https://www.eurogamer.net"/>
+      <outline type="rss" text="Rock Paper Shotgun" title="Rock Paper Shotgun" xmlUrl="https://www.rockpapershotgun.com/feed" htmlUrl="https://www.rockpapershotgun.com"/>
+      <outline type="rss" text="PC Gamer" title="PC Gamer" xmlUrl="https://www.pcgamer.com/rss/" htmlUrl="https://www.pcgamer.com"/>
+      <outline type="rss" text="Polygon" title="Polygon" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com"/>
+      <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" htmlUrl="https://kotaku.com"/>
+    </outline>
+
+    <outline text="Domotique" title="Domotique">
+      <outline type="rss" text="Home Assistant - Blog" title="Home Assistant - Blog" xmlUrl="https://www.home-assistant.io/atom.xml" htmlUrl="https://www.home-assistant.io/blog"/>
+      <outline type="rss" text="Jeedom - Blog" title="Jeedom - Blog" xmlUrl="https://blog.jeedom.com/feed/" htmlUrl="https://blog.jeedom.com"/>
+      <outline type="rss" text="Domotique-info" title="Domotique-info" xmlUrl="https://www.domotique-info.fr/feed/" htmlUrl="https://www.domotique-info.fr"/>
+      <outline type="rss" text="Maison et Domotique" title="Maison et Domotique" xmlUrl="https://www.maison-et-domotique.com/feed/" htmlUrl="https://www.maison-et-domotique.com"/>
+    </outline>
+
+    <outline text="Actualités locales" title="Actualités locales">
+      <outline type="rss" text="Nice-Matin" title="Nice-Matin" xmlUrl="https://www.nicematin.com/rss" htmlUrl="https://www.nicematin.com"/>
+    </outline>
+  </body>
+</opml>
