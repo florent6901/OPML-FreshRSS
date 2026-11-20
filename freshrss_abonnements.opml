@@ -61,9 +61,5 @@
       <outline type="rss" text="Domotique-info" title="Domotique-info" xmlUrl="https://www.domotique-info.fr/feed/" htmlUrl="https://www.domotique-info.fr"/>
       <outline type="rss" text="Maison et Domotique" title="Maison et Domotique" xmlUrl="https://www.maison-et-domotique.com/feed/" htmlUrl="https://www.maison-et-domotique.com"/>
     </outline>
-
-    <outline text="Actualités locales" title="Actualités locales">
-      <outline type="rss" text="Nice-Matin" title="Nice-Matin" xmlUrl="https://www.nicematin.com/rss" htmlUrl="https://www.nicematin.com"/>
-    </outline>
   </body>
 </opml>
