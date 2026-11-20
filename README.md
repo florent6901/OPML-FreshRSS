@@ -7,7 +7,6 @@ Voici le fichier `freshrss_abonnements.opml`, prêt à importer. Il contient une
 * **Sécurité informatique :** CERT-FR (alertes et avis), ZATAZ, Krebs on Security, The Hacker News, BleepingComputer, Schneier, SANS ISC, etc.
 * **Jeux vidéo :** Jeuxvideo.com, Gamekult, Gameblog, IGN France, Canard PC, Eurogamer, Rock Paper Shotgun, PC Gamer, etc.
 * **Domotique :** Home Assistant, Jeedom, Domotique-info, Maison et Domotique.
-* **Actualités locales :** Nice-Matin.
 
 ### Procédure d'importation
 Pour l’importer dans FreshRSS :
