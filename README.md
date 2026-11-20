@@ -1,7 +1,7 @@
 # OPML-FreshRSS
 Fichier OPML FreshRSS 
 
-Voici le fichier `freshrss_abonnements.opml`, prêt à importer. Il contient une soixantaine de flux répartis en **5 catégories** :
+Voici le fichier `freshrss_abonnements.opml`, prêt à importer. Il contient une soixantaine de flux répartis en **4 catégories** :
 
 * **Informatique :** Korben, Numerama, Next, Clubic, Les Numériques, Frandroid, 01net, Journal du Geek, LinuxFr, Ars Technica, The Verge, Hacker News, etc.
 * **Sécurité informatique :** CERT-FR (alertes et avis), ZATAZ, Krebs on Security, The Hacker News, BleepingComputer, Schneier, SANS ISC, etc.
